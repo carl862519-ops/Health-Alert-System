@@ -1,0 +1,15 @@
+=== INTEGRATED HEALTH ALERT SYSTEM COMPONENTS ===
+
+1. Arduino Uno R3 (or compatible)
+2. IR Sensor Module for heart rate monitoring
+3. Tilt Switch (mercury or ball type) for fall detection
+4. Water/Fluid Level Sensor
+5. Active Buzzer (5V)
+6. Common Cathode RGB LED
+7. Resistors: 3x 220Ω, 1x 10kΩ
+8. Breadboard and jumper wires
+9. USB cable for power and programming
+
+Total Cost: ~$30 USD
+Components accessible in Mozambique markets
+Designed for low-cost healthcare solutions
