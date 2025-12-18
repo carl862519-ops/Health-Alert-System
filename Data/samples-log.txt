@@ -1,1 +1,36 @@
+=== INTEGRATED HEALTH ALERT SYSTEM LOG ===
+Date: 2024-12-12
+Time: 14:30:00
+System: INITIALIZED
 
+[14:30:05] STATUS: SAFE (Green)
+[14:30:05] Heart Rate: 72 BPM (Normal)
+[14:30:05] Position: Normal
+[14:30:05] Fluid Level: NORMAL
+
+[14:35:22] ALERT: Low fluid level detected!
+[14:35:22] STATUS: ALERT (Yellow)
+[14:35:22] Heart Rate: 75 BPM
+[14:35:22] Position: Normal
+[14:35:22] Action: Intermittent buzzer activated (600Hz)
+
+[14:40:15] ALARM: Fall detected!
+[14:40:15] STATUS: CRITICAL ALARM (Red)
+[14:40:15] Heart Rate: 85 BPM
+[14:40:15] Position: Fall/Incorrect
+[14:40:15] Action: Continuous buzzer activated (1200Hz)
+
+[14:42:30] Position normal restored
+[14:42:30] STATUS: ALERT (Yellow)
+[14:42:30] Heart Rate: 78 BPM
+
+[14:50:00] Fluid refilled
+[14:50:00] STATUS: SAFE (Green)
+[14:50:00] Heart Rate: 70 BPM
+[14:50:00] All parameters normal
+
+=== SYSTEM SHUTDOWN ===
+Time: 15:00:00
+Total Alerts: 2
+Total Alarms: 1
+System Uptime: 30 minutes
