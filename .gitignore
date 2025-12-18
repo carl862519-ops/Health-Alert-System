@@ -205,3 +205,31 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Arduino
+*.elf
+*.eep
+*.hex
+*.bin
+*.lst
+*.lss
+*.sym
+*.map
+*.app
+*.app.dSYM
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+build/
+dist/
+*.pyc
+__pycache__/
