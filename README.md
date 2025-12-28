@@ -1,6 +1,6 @@
 # 🏥 Integrated Health Alert System
 
-**Authors**: [Your Name] & Collaborators  
+**Authors**: Edna Raquel & Collaborators  
 **Country**: Mozambique  
 **Fields**: Biomedical Engineering & Healthcare Technology  
 **Year**: 2024
