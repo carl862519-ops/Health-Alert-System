@@ -166,13 +166,13 @@ Health-Alert-System/
 
 ## 👥 Team & Contributions
 
-### [Your Name] - Lead Developer
+### Fernando Augusto - Lead Developer
 - System architecture and design
 - Arduino programming and sensor integration
 - Circuit design and prototyping
 - Documentation and testing
 
-### [Collaborator's Name] - Medical Consultant
+### Edna Raquel Carlitos - Medical Consultant
 - Clinical requirement definition
 - Use case development
 - Safety protocol design
@@ -205,10 +205,9 @@ Health-Alert-System/
 
 ## 📞 Contact & Collaboration
 
-**Project Lead**: [Your Name]  
+**Project Lead**: Edna Raquel Carlitos
 **Location**: Mozambique  
-**Email**: [your-email@example.com]  
-**GitHub**: [your-username]  
+**Email**: carl862519@gmail.com.    
 
 **Interested in collaboration?** We welcome:
 - Medical professionals for clinical testing
